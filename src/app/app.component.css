@@ -1,0 +1,9 @@
+/* #content_body { margin-top: 50px } */
+
+#wrapper {
+    background-color: #f9f9f9 !important;
+}
+#inner_content_body {
+    padding: 20px 10px;
+    background: white;
+}
